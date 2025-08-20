@@ -8,6 +8,9 @@ assignees: ''
 ### Código Caso de Uso: US0
 ### Criterios de aceptación
 #### ESCENARIOS:
-
+- Crear
+- Modificar
+- Eliminar 
+- Consultar
 #### Debe tener: 
-1.
+
