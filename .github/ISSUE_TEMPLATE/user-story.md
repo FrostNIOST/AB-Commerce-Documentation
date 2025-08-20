@@ -1,7 +1,7 @@
 ---
 name: USER STORY
 about: requerimineto funcional
-tittle: 'COMO NECESITO PARA'
+title: 'COMO NECESITO PARA'
 labels: user story 
 assignees: ''
 ---
