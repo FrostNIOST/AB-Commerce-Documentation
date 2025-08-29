@@ -31,3 +31,7 @@ Marco teorico:
 ## Justificación:
 
 - El presente proyecto busca responder a esta problemática mediante el desarrollo de una plataforma de e-commerce que no solo venda productos, sino que acompañe al usuario en su proceso de decisión, ayudándolo a descubrir cuál es el producto ideal según sus necesidades, nivel de experiencia, presupuesto y propósito real.
+
+## Pregunta problema:
+
+- ¿Qué estrategias de marketing digital (SEO, email marketing, redes sociales) son las más efectivas para atraer tráfico cualificado y convertirlo en ventas reales con un presupuesto limitado?
