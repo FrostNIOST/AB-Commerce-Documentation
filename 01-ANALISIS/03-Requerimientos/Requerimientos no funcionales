@@ -1,1 +1,81 @@
+# Requisitos No Funcionales para un E‑commerce
+
+---
+
+## 📊 Tipos de Pruebas de Rendimiento
+
+| Tipo                  | Ejemplo aplicado a e‑commerce                                                |
+|-----------------------|-------------------------------------------------------------------------------|
+| Prueba de Carga       | Simular 5.000 usuarios navegando y comprando al mismo tiempo en Black Friday. |
+| Prueba de Estrés      | Forzar 50.000 usuarios concurrentes para ver cuándo colapsa el sistema.       |
+| Prueba de Picos       | Simular un aumento repentino de visitas tras un anuncio en TV.                |
+| Prueba de Resistencia | Mantener 10.000 usuarios activos durante 48 horas seguidas.                   |
+| Prueba de Escalabilidad | Medir si la plataforma escala automáticamente en la nube al duplicar tráfico.|
+
+---
+
+## 🔐 Tipos de Pruebas de Seguridad
+
+| Tipo                   | Ejemplo aplicado a e‑commerce                                                |
+|------------------------|------------------------------------------------------------------------------|
+| Escaneo de Vulnerabilidades | Detectar fallos en el carrito de compras o en el login de clientes.     |
+| Pruebas de Penetración | Simular un ataque para robar datos de tarjetas de crédito.                   |
+| Evaluación de Riesgos  | Analizar impacto de fuga de datos de clientes frente a reputación y multas.  |
+| Auditoría de Seguridad | Revisar cumplimiento con PCI DSS para pagos con tarjeta.                     |
+| Hacking Ético          | Contratar expertos para intentar vulnerar la pasarela de pagos.              |
+
+---
+
+## ⚙️ Métricas de Confiabilidad
+
+| Métrica                | Ejemplo aplicado a e‑commerce                                                |
+|------------------------|------------------------------------------------------------------------------|
+| MTBF                   | El sistema de pagos falla en promedio cada 6 meses.                          |
+| MTTR                   | Tiempo promedio de 30 minutos para restaurar el servicio tras una caída.     |
+| Disponibilidad         | Garantizar 99,95% de uptime en la tienda online.                             |
+
+---
+
+## 🛠️ Atributos de Mantenibilidad
+
+| Atributo               | Ejemplo aplicado a e‑commerce                                                |
+|------------------------|------------------------------------------------------------------------------|
+| Analizabilidad         | Logs claros para identificar por qué falló un pedido.                        |
+| Modificabilidad        | Agregar un nuevo método de pago (ej. Apple Pay) en menos de 2 semanas.       |
+| Estabilidad            | Cambiar el diseño de la página sin romper el carrito de compras.             |
+| Testeabilidad          | Automatizar pruebas de checkout con Selenium o Cypress.                      |
+
+---
+
+## 👥 Métricas de Usabilidad
+
+| Métrica                | Ejemplo aplicado a e‑commerce                                                |
+|------------------------|------------------------------------------------------------------------------|
+| Facilidad de Aprendizaje | Un nuevo usuario entiende cómo comprar en menos de 3 minutos.              |
+| Eficiencia             | Completar una compra en menos de 5 clics.                                    |
+| Memorabilidad          | Un cliente que regresa después de 1 mes recuerda cómo usar el carrito.       |
+| Errores                | Menos del 2% de usuarios abandona por errores en el checkout.                |
+| Satisfacción           | Encuestas muestran 90% de clientes satisfechos con la experiencia.           |
+
+---
+
+## 📡 Tipos de Pruebas de Disponibilidad
+
+| Tipo de prueba         | Ejemplo aplicado a e‑commerce                                                |
+|------------------------|-------------------------------------------------------------------------------|
+| Failover Testing       | Si un servidor de base de datos cae, otro toma el control sin interrumpir ventas. |
+| Recovery Testing       | Restaurar el sistema en menos de 15 minutos tras un corte eléctrico.          |
+| Backup/Restore Testing | Recuperar pedidos y datos de clientes desde un backup diario.                 |
+
+---
+
+## 🔄 Escalabilidad y Capacidad
+
+| Métrica                | Ejemplo aplicado a e‑commerce                                                |
+|------------------------|------------------------------------------------------------------------------|
+| Throughput (Rendimiento) | Procesar 1.000 transacciones por minuto en hora pico.                      |
+| Latencia               | Responder a búsquedas de productos en menos de 2 segundos.                   |
+| Concurrent Users       | Soportar 20.000 usuarios navegando al mismo tiempo.                          |
+| Utilización de Recursos | Mantener CPU <70% y memoria <80% durante campañas de alto tráfico.          |
+
 
