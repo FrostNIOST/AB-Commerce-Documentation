@@ -8,9 +8,8 @@
 |-----------------------|-------------------------------------------------------------------------------|
 | Prueba de Carga       | Simular 5.000 usuarios navegando y comprando al mismo tiempo en Black Friday. |
 | Prueba de Estrés      | Forzar 50.000 usuarios concurrentes para ver cuándo colapsa el sistema.       |
-| Prueba de Picos       | Simular un aumento repentino de visitas tras un anuncio en TV.                |
-| Prueba de Resistencia | Mantener 10.000 usuarios activos durante 48 horas seguidas.                   |
-| Prueba de Escalabilidad | Medir si la plataforma escala automáticamente en la nube al duplicar tráfico.|
+| Prueba de Picos       | Simular un aumento repentino de visitas                |
+| Prueba de Resistencia | Mantener 10.000 usuarios activos durante 8 horas seguidas.                   |
 
 ---
 
@@ -20,9 +19,7 @@
 |------------------------|------------------------------------------------------------------------------|
 | Escaneo de Vulnerabilidades | Detectar fallos en el carrito de compras o en el login de clientes.     |
 | Pruebas de Penetración | Simular un ataque para robar datos de tarjetas de crédito.                   |
-| Evaluación de Riesgos  | Analizar impacto de fuga de datos de clientes frente a reputación y multas.  |
-| Auditoría de Seguridad | Revisar cumplimiento con PCI DSS para pagos con tarjeta.                     |
-| Hacking Ético          | Contratar expertos para intentar vulnerar la pasarela de pagos.              |
+| Evaluación de Riesgos  | Analizar impacto de fuga de datos de clientes frente a reputación.           |
 
 ---
 
@@ -41,7 +38,7 @@
 | Atributo               | Ejemplo aplicado a e‑commerce                                                |
 |------------------------|------------------------------------------------------------------------------|
 | Analizabilidad         | Logs claros para identificar por qué falló un pedido.                        |
-| Modificabilidad        | Agregar un nuevo método de pago (ej. Apple Pay) en menos de 2 semanas.       |
+| Modificabilidad        | Agregar un nuevo método de pago en menos de 2 semanas.        |
 | Estabilidad            | Cambiar el diseño de la página sin romper el carrito de compras.             |
 | Testeabilidad          | Automatizar pruebas de checkout con Selenium o Cypress.                      |
 
@@ -63,7 +60,6 @@
 
 | Tipo de prueba         | Ejemplo aplicado a e‑commerce                                                |
 |------------------------|-------------------------------------------------------------------------------|
-| Failover Testing       | Si un servidor de base de datos cae, otro toma el control sin interrumpir ventas. |
 | Recovery Testing       | Restaurar el sistema en menos de 15 minutos tras un corte eléctrico.          |
 | Backup/Restore Testing | Recuperar pedidos y datos de clientes desde un backup diario.                 |
 
