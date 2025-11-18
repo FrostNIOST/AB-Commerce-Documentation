@@ -1,2 +1,3 @@
- [Diarama de Gantt AB-Commerce](https://1drv.ms/x/c/34183D5771657B6F/ERYeWqY7jgJPmoaU2UnNPVoBy7lJwM756-ufccsQrMXJ2A?e=hpaPQd)
+[Diagrama de Gantt](https://1drv.ms/x/c/a66bb11dfcabc02b/EeBfZUiQbAxHujk6wM5HzD8BUEEbDvqnVCHSsXZCtPNr7A?e=eK5lve&nav=MTVfe0YwMTcyQUM1LUJGRDktNDc0MS1CMjI2LUQwNkM3RDM4OEE5N30)
+
 
