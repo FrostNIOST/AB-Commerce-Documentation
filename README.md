@@ -4,7 +4,7 @@ Marco teorico:
 
 ## Objetivo general: 
 
-- Desarrollar una plataforma de comercio electrónico que no solo ofrezca productos, sino que guíe activamente al usuario hacia la mejor elección según sus necesidades reales, mediante contenido educativo, recomendaciones personalizadas y una experiencia de compra acompañada.
+- Desarrollar una plataforma de comercio electrónico que no solo ofrezca productos, sino que guíe activamente al usuario hacia la mejor una experiencia de compra.
 
 ## Objetivos especificos:
 
@@ -22,16 +22,16 @@ Marco teorico:
 
 ## Alcance:
 
-- Alcance técnico: Plataforma web responsive (adaptable a móviles y tablets), Optimización SEO para posicionamiento orgánico, Base de datos para productos, usuarios, reseñas y contenido.
+- Alcance técnico: Plataforma web responsive (adaptable a móviles y tablets), Optimización SEO para posicionamiento orgánico, Base de datos para productos, usuarios, checkout, pasarela de pagos simulada, gestion de banners, accesos rapidos, gestion de carrusel de marcas, gestion de ordenes, reseñas y contenido.
 
-- Alcance funcional: Catálogo de productos con filtros avanzados (categoría, uso, nivel de experiencia, presupuesto), Soporte y contacto (chat, formulario, preguntas frecuentes), Panel administrativo para gestionar productos, usuarios, pedidos y contenido.
+- Alcance funcional: Catálogo de productos con filtros avanzados (categoría, subcategoria, productos, marcas (en la barra de busqueda por coincidencia)), Soporte y contacto (datos de contacto, envió de correo pqrs al correo del admin), Panel administrativo para gestionar productos, usuarios, pedidos, facturas, gestión de roles, gestion de banners, accesos rapidos, gestion de carrusel de marcas, gestion de ordenes y contenido.
 
 - Alcance estratégico: Diferenciarse de la competencia por su enfoque en orientación y propósito.
 
 ## Justificación:
 
-- El presente proyecto busca responder a esta problemática mediante el desarrollo de una plataforma de e-commerce que no solo venda productos, sino que acompañe al usuario en su proceso de decisión, ayudándolo a descubrir cuál es el producto ideal según sus necesidades, nivel de experiencia, presupuesto y propósito real.
+- El presente proyecto busca responder a esta problemática mediante el desarrollo de una plataforma de e-commerce que no solo venda productos, sino que acompañe al usuario en su proceso de decisión, nivel de experiencia.
 
 ## Pregunta problema:
 
-- ¿Qué estrategias de marketing digital (SEO, email marketing, redes sociales) son las más efectivas para atraer tráfico cualificado y convertirlo en ventas reales con un presupuesto limitado?
+- ¿Qué estrategias de marketing digital (SEO, email marketing, redes sociales) son las más efectivas para atraer tráfico cualificado?
